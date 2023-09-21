@@ -1,0 +1,5 @@
+print("Samler")
+print("Ken")
+print("Tanners")
+print("Andrea")
+print("Daniel")
