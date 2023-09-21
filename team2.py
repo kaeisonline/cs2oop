@@ -1,0 +1,5 @@
+print("Toyota")
+print("BMW")
+print("Geely")
+print("Subaro")
+print("Kia")
